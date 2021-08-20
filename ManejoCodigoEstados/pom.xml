@@ -2,10 +2,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.mycompany</groupId>
-    <artifactId>ManejoCabeceras</artifactId>
+    <artifactId>ManejoCodigoEstados</artifactId>
     <version>1.0</version>
     <packaging>war</packaging>
-    <name>ManejoCabeceras</name>
+    <name>ManejoCodigoEstados</name>
     
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -77,7 +77,6 @@
                 <artifactId>maven-war-plugin</artifactId>
                 <version>3.3.1</version>
             </plugin>
-           
         </plugins>
     </build>
 </project>
